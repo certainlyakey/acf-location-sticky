@@ -1,0 +1,41 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-28 20:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../../../../site/wp-content/plugins/acf-location-sticky/inc.php:29
+msgid "Post Stickiness"
+msgstr ""
+
+#: ../../../../site/wp-content/plugins/acf-location-sticky/inc.php:39
+msgid "Sticky"
+msgstr ""
+
+#: ../../../../site/wp-content/plugins/acf-location-sticky/inc.php:40
+msgid "Not sticky"
+msgstr ""
+
+#. Name of the plugin
+msgid "Location \"Is Sticky\" for ACF"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add-On plugin for Advanced Custom Fields (ACF) PRO that adds an Is Sticky "
+"location for fields"
+msgstr ""
+
+#. Author of the plugin
+msgid "Aleksandr Beliaev"
+msgstr ""

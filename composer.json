@@ -1,0 +1,9 @@
+{
+  "name": "acf-location-sticky",
+  "description": "ACF extension for displaying ACF fields only on sticky or non-sticky posts edit screens.",
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
