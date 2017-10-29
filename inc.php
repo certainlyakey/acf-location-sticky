@@ -46,7 +46,7 @@ class acf_location_sticky extends acf_location
 
 	function acf_add_location_rule_post_stickiness_function($match, $rule, $options) {
 	  
-	  if (!$options['post_id']) {
+	  if (!isset($options['post_id']) || $options['post_id']) {
 	    return false;
 	  }
 	    
